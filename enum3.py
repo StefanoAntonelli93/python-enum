@@ -13,3 +13,4 @@ print(StatoSemaforo.ROSSO is StatoSemaforo.ROSSO)
 print(StatoSemaforo.ROSSO is StatoSemaforo.VERDE)
 
 print(StatoSemaforo.ROSSO == 1)
+print(StatoSemaforo.ROSSO.value == 1)
